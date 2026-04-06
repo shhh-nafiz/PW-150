@@ -1,9 +1,0 @@
-.vs/
-x64/
-Debug/
-Release/
-*.pdb
-*.exe
-*.obj
-*.log
-*.dll
